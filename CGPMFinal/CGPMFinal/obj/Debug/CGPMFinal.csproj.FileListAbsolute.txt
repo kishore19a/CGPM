@@ -1,0 +1,26 @@
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\bin\Debug\CGPMFinal.exe.config
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.csprojResolveAssemblyReference.cache
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Form1.resources
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Properties.Resources.resources
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.csproj.GenerateResource.Cache
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\bin\Debug\CGPMFinal.exe
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\bin\Debug\CGPMFinal.pdb
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.exe
+c:\users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.pdb
+C:\Users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Form2.resources
+C:\Users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Form3.resources
+C:\Users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\akash\documents\visual studio 2012\Projects\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.csproj.ResolveComReference.cache
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\bin\Debug\CGPMFinal.exe.config
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.csproj.ResolveComReference.cache
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.exe
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.pdb
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\bin\Debug\CGPMFinal.exe
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\bin\Debug\CGPMFinal.pdb
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.csprojResolveAssemblyReference.cache
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Form1.resources
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Form2.resources
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Form3.resources
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.Properties.Resources.resources
+E:\_Acad_7th_Sem\ME735 Computer Graphics and Product Modeling\CGPMFinal1\CGPMFinal\CGPMFinal\obj\Debug\CGPMFinal.csproj.GenerateResource.Cache

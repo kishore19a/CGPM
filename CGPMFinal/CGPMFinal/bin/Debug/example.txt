@@ -1,0 +1,39 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+comma|,|false
+minus|-|false
+space| |false
+move|MO|false
+nesting|NT|false
+finish|ED|false
+H|H|false
+E|E|false
+P|P|false
+D|D|false
+A|A|false
+R|R|false
+C|C|false
+N|N|false
+position|PD|false
+point|.|false
+next|>|false
+backspace|<|false
+delete|xx|false
+one|1|false
+two|2|false
+three|3|false
+four|4|false
+five|5|false
+six|6|false
+seven|7|false
+eight|8|false
+nine|9|false
+zero|0|false
+close|GC|false
+
+-- commands --
+--visual studio|devenv.exe|true
+--wordpad|wordpad.exe|true
+--calculator|calc.exe|true

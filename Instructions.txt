@@ -1,0 +1,18 @@
+Hello and Welcome to our Speech Recognition Application!!!! :)
+
+Start Recording: Click on the icon of a mike, in the middle, to start recording and inputting the code.
+Edit Grammar: You can edit the grammar that this speech recogniser will use to write the code.It has 
+	      3 segments. 
+	      Eg. First|second|third
+	      The first segment is the word that you want the user to speak
+	      The second segment is the word that you want to write in the text file, for the word said in the first segment.
+	      The third segment is by default taken as false, unless it is a shell command for which it will be true.
+              You can change it as per your convenience.
+	      Eg. move|MO|false
+              This will write MO whenever the user speaks 'move' .
+ 
+Key Words: User has to say 'next' to move to the next line.
+	   Say 'backspace' to remove the current character that has been recognised.
+           Say 'delete' to delete the entire file.
+           Say 'space' or 'comma' to provide space and comma respectively.
+	      
